@@ -3,8 +3,8 @@
 <hr>
 
 <div align="center">
-  <img height=203em src=https://github-readme-stats.vercel.app/api?username=DaronBecaus&theme=codeSTACKr>
-  <img height=203em src=https://github-readme-stats.vercel.app/api/top-langs/?username=DaronBecaus&theme=codeSTACKr&layout=compact>
+  <img height=203em src=https://github-readme-stats.vercel.app/api?username=DraconBecaus&theme=codeSTACKr>
+  <img height=203em src=https://github-readme-stats.vercel.app/api/top-langs/?username=DraconBecaus&theme=codeSTACKr&layout=compact>
 </div>
 
 <hr>
